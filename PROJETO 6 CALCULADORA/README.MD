@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Calculadora </h1>
 
 ## 🚀 Tecnologias
 
